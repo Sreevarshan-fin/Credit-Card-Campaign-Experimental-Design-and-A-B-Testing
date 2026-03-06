@@ -162,16 +162,12 @@ Key outcomes:
 Based on the results, the campaign strategy can be **scaled for the 18–25 customer segment** with further optimization.
 
 ---
-
-# Tech Stack
-
-Python
-Pandas
-NumPy
-SciPy
-Statsmodels
+Tech Stack:
+Python (Pandas, NumPy, SciPy, Statsmodels)
 SQL
 Matplotlib / Seaborn
+Jupyter Notebook
+A/B Testing Framework
 
 ---
 
