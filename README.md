@@ -163,11 +163,12 @@ Based on the results, the campaign strategy can be **scaled for the 18–25 cust
 
 ---
 Tech Stack:
-Python (Pandas, NumPy, SciPy, Statsmodels)
-SQL
-Matplotlib / Seaborn
-Jupyter Notebook
-A/B Testing Framework
+
+* Python (Pandas, NumPy, SciPy, Statsmodels)
+* SQL
+* Matplotlib / Seaborn
+* Jupyter Notebook
+* A/B Testing Framework
 
 ---
 
