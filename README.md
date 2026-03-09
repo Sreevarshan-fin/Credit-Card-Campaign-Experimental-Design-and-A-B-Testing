@@ -98,13 +98,9 @@ Based on these parameters:
 
 Customers were randomly assigned into:
 
-**Control Group**
+* **Control Group**  -  Received the existing campaign
 
-* Received the existing campaign
-
-**Test Group**
-
-* Received the new credit card campaign
+* **Test Group** - Received the new credit card campaign
 
 Randomization ensured unbiased comparison between groups.
 
