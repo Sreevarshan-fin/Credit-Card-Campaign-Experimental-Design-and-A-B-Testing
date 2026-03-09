@@ -358,10 +358,6 @@ This demonstrates a **clear financial impact of the marketing campaign**.
 
 ---
 
-Here is a **clean final Business Impact section** you can add at the end of your GitHub project.
-
----
-
 # Business Impact
 
 The experiment demonstrates how **data-driven experimentation can guide marketing strategy and reduce decision uncertainty**.
