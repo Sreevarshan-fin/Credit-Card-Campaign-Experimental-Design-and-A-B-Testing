@@ -280,6 +280,83 @@ Both methods confirm the same result:
 Therefore, the **new campaign significantly increased customer spending** compared to the control group.
 
 ---
+# 1️⃣ Confidence Interval (Very Important)
+
+Instead of only saying the campaign works, show **how much improvement we are confident about**.
+
+## Formula
+
+```
+CI = (mean_test − mean_control) ± Z * SE
+```
+
+Where
+
+```
+SE = √((sd_control²/n) + (sd_test²/n))
+```
+
+## Calculation
+
+```
+SE = √((21.36²/100) + (36.66²/100))
+SE ≈ 5.39
+```
+
+For **95% confidence level**:
+
+```
+Z = 1.96
+```
+
+Margin of error:
+
+```
+ME = 1.96 × 5.39 ≈ 10.56
+```
+
+Confidence interval:
+
+```
+CI = 14.8 ± 10.56
+```
+
+```
+CI ≈ (4.24 , 25.36)
+```
+
+## Interpretation
+
+We are **95% confident** that the campaign increases average customer spending by **₹4.24 to ₹25.36**.
+
+This gives **decision-makers a realistic range of impact**.
+
+---
+
+# 2️⃣ Revenue Lift (Business Impact)
+
+Recruiters love **business metrics**.
+
+## Formula
+
+```
+Lift (%) = ((Mean_test − Mean_control) / Mean_control) × 100
+```
+
+## Calculation
+
+```
+Lift = ((235.98 − 221.18) / 221.18) × 100
+Lift ≈ 6.69%
+```
+
+## Interpretation
+
+The campaign increased **average customer spending by approximately 6.7%**.
+
+This demonstrates a **clear financial impact of the marketing campaign**.
+
+---
 
 # Business Impact
 
