@@ -78,11 +78,9 @@ To validate the campaign strategy, a controlled experiment was designed.
 
 ### Hypothesis
 
-**Null Hypothesis (H₀)**
-The new campaign has no impact on customer behavior.
+* **Null Hypothesis (H₀)**  - The new campaign has no impact on customer behavior.
 
-**Alternative Hypothesis (H₁)**
-The new campaign improves customer engagement and spending.
+* **Alternative Hypothesis (H₁)**  - The new campaign improves customer engagement and spending.
 
 ### Power Analysis
 
