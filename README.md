@@ -74,7 +74,7 @@ This suggested a potential **untapped opportunity for targeted credit card campa
 
 ## 2. Experiment Design (A/B Testing)
 
- ### Campaign  architecture
+ #### Campaign  architecture
  
  <img width="1391" height="507" alt="image" src="https://github.com/user-attachments/assets/a2bb8d02-61cc-4076-9b2b-5328a90d46af" />
 
@@ -82,13 +82,13 @@ This suggested a potential **untapped opportunity for targeted credit card campa
 
 To validate the campaign strategy, a controlled experiment was designed.
 
-### Hypothesis
+#### Hypothesis
 
 * **Null Hypothesis (H₀)**  - The new campaign has no impact on customer behavior.
 
 * **Alternative Hypothesis (H₁)**  - The new campaign improves customer engagement and spending.
 
-### Power Analysis
+#### Power Analysis
 
 To ensure the experiment was statistically reliable:
 
@@ -100,7 +100,7 @@ Based on these parameters:
 
 **Sample Size ≈ 100 customers per group**
 
-### Group Assignment
+#### Group Assignment
 
 Customers were randomly assigned into:
 
@@ -132,13 +132,13 @@ Around 40 out of 100 customers actively began using the credit card after receiv
 
 To measure the **practical magnitude of the campaign impact**, Cohen’s d was calculated.
 
-### Difference in Means
+#### Difference in Means
 
 ```
 235.98 − 221.18 = 14.80
 ```
 
-### Pooled Standard Deviation
+#### Pooled Standard Deviation
 
 Formula:
 
@@ -153,14 +153,14 @@ SD_pooled = √((21.36² + 36.66²) / 2)
 ≈ 30
 ```
 
-### Cohen’s d
+#### Cohen’s d
 
 ```
 d = (Mean_test − Mean_control) / SD_pooled
 d = 14.8 / 30 ≈ 0.49
 ```
 
-### Interpretation
+#### Interpretation
 
 ```
 Effect size ≈ 0.49 → Medium effect
@@ -168,7 +168,7 @@ Effect size ≈ 0.49 → Medium effect
 
 This indicates the campaign produced a **moderate and practically meaningful increase in customer spending**.
 
-### Experiment Validation
+#### Experiment Validation
 
 ```
 Planned effect size: 0.40
@@ -280,7 +280,7 @@ Both methods confirm the same result:
 Therefore, the **new campaign significantly increased customer spending** compared to the control group.
 
 ---
-# 1️⃣ Confidence Interval (Very Important)
+#### C)  Confidence Interval (Very Important)
 
 Instead of only saying the campaign works, show **how much improvement we are confident about**.
 
@@ -333,7 +333,7 @@ This gives **decision-makers a realistic range of impact**.
 
 ---
 
-# 2️⃣ Revenue Lift (Business Impact)
+#### d) Revenue Lift (Business Impact)
 
 Recruiters love **business metrics**.
 
@@ -358,28 +358,48 @@ This demonstrates a **clear financial impact of the marketing campaign**.
 
 ---
 
-# Business Impact
-
-The experiment demonstrates how **data-driven experimentation can guide marketing strategy**.
-
-Key outcomes:
-
-* Increased credit card activation and usage
-* Better targeting of high-potential customer segments
-* Reduced marketing risk through statistical validation
-* Evidence-based campaign design
-
-Based on the results, the campaign strategy can be **scaled for the 18–25 customer segment** with further optimization.
+Here is a **clean final Business Impact section** you can add at the end of your GitHub project.
 
 ---
 
-Tech Stack:
+# Business Impact
 
-* Python (Pandas, NumPy, SciPy, Statsmodels)
-* SQL
-* Matplotlib / Seaborn
-* Jupyter Notebook
-* A/B Testing Framework
+The experiment demonstrates how **data-driven experimentation can guide marketing strategy and reduce decision uncertainty**.
+
+### Key Outcomes
+
+* The new campaign increased **average customer spending by approximately 6.7%** compared to the existing campaign.
+* Statistical testing confirmed the improvement is **significant (Z = 2.75, p ≈ 0.003)**.
+* The observed **effect size (Cohen’s d ≈ 0.49)** indicates a **moderate practical impact** on customer spending behavior.
+* The **95% confidence interval (₹4.24 – ₹25.36)** suggests the campaign consistently increases average spend within this range.
+
+### Strategic Implications
+
+* The campaign successfully improves **credit card engagement and transaction activity**.
+* Targeting the **18–25 age segment** presents a strong opportunity for **market expansion**.
+* Data-driven experimentation helps **optimize marketing spend and reduce campaign risk**.
+* The validated results support **scaling the campaign strategy to a larger customer base** with further optimization.
+
+### Final Recommendation
+
+Based on the experimental results and statistical validation, the **new credit card campaign strategy should be scaled for the 18–25 customer segment**, while continuing to monitor performance and refine targeting for maximum revenue impact.
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-Statistical_Experimentation-blue?style=for-the-badge)
 
 ---
 
