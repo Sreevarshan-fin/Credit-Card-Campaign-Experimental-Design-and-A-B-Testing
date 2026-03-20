@@ -4,7 +4,6 @@
 
 ## 🔹 Project Overview
 
-A bank aimed to expand its credit card business but faced challenges with low adoption and inefficient marketing targeting.  
 This project uses transaction and customer data to identify high-potential segments and evaluate a new campaign using A/B testing.  
 Statistical analysis, including hypothesis testing and effect size measurement, was applied to validate whether the new campaign significantly improves customer spending and engagement.
 
