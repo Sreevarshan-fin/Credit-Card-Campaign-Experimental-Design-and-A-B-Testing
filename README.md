@@ -169,7 +169,7 @@ Since the observed effect is **higher than the planned detectable effect**, the 
 
 ##  2️⃣ **Experimental Testing**
 
-### a) Hypothesis Testing Using Critical Z-Value
+👉 a) Hypothesis Testing Using Critical Z-Value
 
 ##### Z-Score Calculation
 
@@ -195,7 +195,7 @@ Result:
 Z_score = 2.7466
 ```
 
-##### Critical Z-Value (Right-Tailed Test)
+**Critical Z-Value (Right-Tailed Test)**
 
 For significance level **α = 0.05**
 
@@ -225,7 +225,7 @@ The campaign produced a **statistically significant uplift**.
 
 ---
 
-### b) Hypothesis Testing Using P-Value
+👉 b) Hypothesis Testing Using P-Value
 
 ##### P-Value Calculation
 
@@ -268,7 +268,7 @@ Both methods confirm the same result:
 Therefore, the **new campaign significantly increased customer spending** compared to the control group.
 
 ---
-### C)  Confidence Interval (Very Important)
+👉 C)  Confidence Interval (Very Important)
 
 Instead of only saying the campaign works, show **how much improvement we are confident about**.
 
@@ -321,7 +321,7 @@ This gives **decision-makers a realistic range of impact**.
 
 ---
 
-#### d) Revenue Lift (Business Impact)
+👉 d) Revenue Lift (Business Impact)
 
 Recruiters love **business metrics**.
 
