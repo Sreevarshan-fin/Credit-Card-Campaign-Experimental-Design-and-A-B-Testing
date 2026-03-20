@@ -11,40 +11,23 @@ Statistical analysis, including hypothesis testing and effect size measurement, 
 
 ## 🔹 Problem Statement
 
-A growing bank wanted to expand its credit card business and increase market penetration.
+A bank aimed to launch a **new credit card** to expand its business, but faced risks like low adoption, inefficient marketing spend, and increased credit risk.
 
-However, launching a new credit card campaign without proper targeting could lead to:
+The challenge was to identify the right customer segment and use data-driven experimentation to design and validate an effective campaign that improves engagement.
 
-* Low adoption rates
-* Inefficient marketing spend
-* Increased credit risk
-
-The key challenge was identifying **the right customer segment** and validating whether a new campaign strategy could significantly improve customer engagement.
-
-The goal was to use **data-driven experimentation** instead of assumptions to design and validate the campaign.
 
 ---
 
 ## 🔹 Dataset
 
-The analysis used three related datasets:
+The analysis used three key datasets:
 
-**Customers Dataset**
+* **Customers Dataset (1,000 records):** Demographics and profile details
+* **Credit Score Dataset (1,004 records):** Credit scores and limits
+* **Transactions Dataset (500,000 records):** Spending behavior, categories, and payment methods
 
-* 1,000 records
-* Customer demographics and profile information
+Together, these datasets enabled linking customer profiles, credit behavior, and transaction activity for deeper insights.
 
-**Credit Score Dataset**
-
-* 1,004 records
-* Credit scores and credit limit details
-
-**Transactions Dataset**
-
-* 500,000 transaction records
-* Transaction amount, category, payment method
-
-These datasets allowed linking **customer demographics, credit behavior, and spending activity**.
 
 ---
 
@@ -83,6 +66,8 @@ This suggested a potential **untapped opportunity for targeted credit card campa
 
 
 To validate the campaign strategy, a controlled experiment was designed.
+
+1️⃣ **Pre - campaign**
 
 #### Hypothesis
 
