@@ -116,7 +116,7 @@ Around 40 out of 100 customers actively began using the credit card after receiv
 
 ---
 
-## 👉 Effect Size (Cohen’s d)
+👉 Effect Size (Cohen’s d)
 
 To measure the **practical magnitude of the campaign impact**, Cohen’s d was calculated.
 
