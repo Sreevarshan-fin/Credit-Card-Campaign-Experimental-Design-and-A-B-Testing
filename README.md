@@ -230,3 +230,10 @@ ab-testing-campaign/
 - **Long-term impact tracking** — measure 3–6 month spend retention, not just immediate uplift, to assess true campaign lifetime value
 - **Subgroup analysis** — break down results by gender, region, and spending category to identify which sub-segments drive the most lift
 
+  ----
+
+  ## 🔹 Author
+
+**Sree Varshan**
+Data Science & AI | Machine Learning | Financial Domain
+
