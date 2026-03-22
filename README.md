@@ -492,6 +492,7 @@ Customers randomly assigned — ensuring unbiased comparison.
 
 <details>
 <summary><b>Z-test — critical value method</b></summary>
+ 
 ```python
 a = (control_std**2 / sample_size)
 b = (test_std**2 / sample_size)
@@ -508,6 +509,7 @@ z_score = (test_mean - control_mean) / np.sqrt(a + b)
 
 <details>
 <summary><b>P-value method</b></summary>
+ 
 ```python
 p_value = 1 - st.norm.cdf(z_score)
 ```
@@ -522,6 +524,7 @@ p_value = 1 - st.norm.cdf(z_score)
 
 <details>
 <summary><b>Cohen's d — effect size</b></summary>
+ 
 ```
 Difference in means: 235.98 − 221.18 = 14.80
 SD pooled = √((21.36² + 36.66²) / 2) ≈ 30
@@ -538,6 +541,7 @@ Cohen's d = 14.8 / 30 ≈ 0.49
 
 <details>
 <summary><b>Confidence interval</b></summary>
+ 
 ```
 SE = √((21.36²/100) + (36.66²/100)) ≈ 5.39
 ME = 1.96 × 5.39 ≈ 10.56
@@ -550,6 +554,7 @@ CI = 14.8 ± 10.56 → (4.24, 25.36)
 
 <details>
 <summary><b>Revenue lift</b></summary>
+ 
 ```
 Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 ```
