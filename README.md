@@ -232,7 +232,7 @@ ab-testing-campaign/
 
   ----
 
-  ## 🔹 Author
+## Author
 
 **Sree Varshan**
 
